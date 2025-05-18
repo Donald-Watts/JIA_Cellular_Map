@@ -1,4 +1,5 @@
----
+# This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. We're building it in the open with the community and welcome:
+
 date: '2025-05-15T07:38:59.812338'
 title: README.md
 weights:
@@ -8,8 +9,8 @@ weights:
   interaction: 0.0
   resonance: 0.0
   state: 0.3
----
----
+
+
 date: '2025-05-15T07:31:22.110243'
 title: README.md
 weights:
@@ -19,8 +20,8 @@ weights:
   interaction: 0.0
   resonance: 0.0
   state: 0.3
----
----
+
+
 date: '2025-05-15T07:30:42.924717'
 title: README.md
 weights:
@@ -30,8 +31,8 @@ weights:
   interaction: 0.0
   resonance: 0.0
   state: 0.3
----
----
+
+
 date: '2025-05-15T07:28:25.625796'
 title: README.md
 weights:
@@ -41,8 +42,8 @@ weights:
   interaction: 0.0
   resonance: 0.0
   state: 0.3
----
----
+
+
 date: '2025-05-15T07:27:54.282303'
 title: README.md
 weights:
@@ -52,7 +53,7 @@ weights:
   interaction: 0.0
   resonance: 0.0
   state: 0.3
----
+
 # Resonant AI Cell Simulation Logic (v0.1.0)
 
 **Prototype of multi-agent symbolic AI field resonance for biological cognition**
@@ -75,7 +76,7 @@ This repository is currently in Phase 1 (Foundation & Definition) and will be in
 
 ### Initial Repository Setup
 
-```bash
+
 # After completing Phase 1
 git init
 git add .
@@ -83,7 +84,7 @@ git commit -m "Initial commit: Phase 1 Foundation & Definition"
 git branch -M main
 git remote add origin github.com/Donald-Watts/JIA_Cellular_Map.git
 git push -u origin main
-```
+
 
 ### Pre-Push Checklist
 - [ ] All documentation is complete and reviewed
