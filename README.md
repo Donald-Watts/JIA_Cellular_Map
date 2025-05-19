@@ -1,4 +1,4 @@
-# This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. We're building it in the open with the community and welcome:
+# This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. We're building it in the open with the community:
 
 date: '2025-05-15T07:38:59.812338'
 title: README.md
